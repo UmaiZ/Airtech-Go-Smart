@@ -1,0 +1,2 @@
+String Glocation;
+String Guser;

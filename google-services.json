@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "509147576647",
+    "project_id": "gosmart-21284",
+    "storage_bucket": "gosmart-21284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509147576647:android:6db89b499213c78ce67462",
+        "android_client_info": {
+          "package_name": "com.airtechecommerce.AirEcom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509147576647-tjepd0onuvhuo5nspiccp9mtosodner0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.airtechecommerce.AirEcom",
+            "certificate_hash": "eee081041b4090e97ec757125004708689297e4d"
+          }
+        },
+        {
+          "client_id": "509147576647-3bbloqtuqc70qmhapkcghpli6o8gjvn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjd6EqU0huB5yMy4nA7BR3IiQstgTvauU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509147576647-3bbloqtuqc70qmhapkcghpli6o8gjvn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
